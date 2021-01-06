@@ -1,5 +1,5 @@
 {
-  "name": "typescript",
+  "name": "starwars",
   "scripts": {
     "start": "ts-node src/index.ts",
     "build": "tsc",
@@ -13,5 +13,7 @@
   },
   "dependencies": {
     "@kayu/client": "0.0.0"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
